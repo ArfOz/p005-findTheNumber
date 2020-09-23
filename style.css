@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+    vertical-align: baseline;
+    width: auto;
+}
+body{
+    background-image: url(./images/F2qRmLhRnmebc8jJAUjr_GuessTheNumber@3x.png);
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+div{
+    position: static;
+    margin-top: 7%;
+
+}
+#soru{
+   text-align: center;
+
+
+}
+#cevap{
+    text-align: center;
+    margin-top: 2%;
+}
+.ort{
+  
+    color:springgreen;
+    background-color:rgba(0,0,0, 0.5);
+    margin-top: 1%;
+    text-align: center;
+    margin: 1% 25%
+
+}
+#you{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    visibility: hidden;
+}
